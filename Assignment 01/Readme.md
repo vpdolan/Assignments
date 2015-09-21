@@ -39,7 +39,7 @@ Create a Codepen that contains at least **10** distinct HTML tags, and **10** di
 
 Your HTML should be valid, semantic, and go at least four levels deep.
 
-Your CSS should be valid and use at least three complex selectors.
+Your CSS should be valid.
 
 ### Hard Mode
 
