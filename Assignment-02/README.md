@@ -6,7 +6,7 @@ ___This homework is due by 8am, on 09/23/2015___
 
 ### Description
 
-Convert yesterdays assignment into a project with and html and css file.
+Convert yesterdays assignment into a project.
 
 ### Objectives
 
@@ -14,8 +14,9 @@ Convert yesterdays assignment into a project with and html and css file.
 
 After completing this assignment, you should…
 
-* Understand the basics of creating a project ans tracking it with git
+* Understand the basics of creating a project and tracking it with git
 * How to push your code to github
+* Be able to create a new project from scratch
 
 ##### Performance Objectives
 
@@ -32,8 +33,9 @@ After completing this assignment, you should be able to effectively use:
 
 ### Normal Mode
 
-* Convert yesterdays assignment into a project with and html and css file
-* Link the css file to the html file
+* Convert yesterdays assignment into a project with an html and css file (index.html and main.css)
+* Link the css file to the html file using the link tag
+* track this project with git
 * create a repo on github for this project and push your code to it 
 
 ### Hard Mode
