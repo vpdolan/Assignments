@@ -52,6 +52,8 @@ Your homework today is to recreate the layout found in `/Hard-Mode/layout.png`.
 
 All of the assets you should need are located in the `/Hard-Mode/assets` folder. 
 
+You can also bulk download the images [here](http://cl.ly/362S453e2Y13).
+
 * Fonts: Coming Soon...
 
 ### Nightmare Mode
