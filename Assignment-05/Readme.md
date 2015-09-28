@@ -3,7 +3,7 @@
 
 ___This homework is due by 8am, on 09/29/15___
 
-## Homework
+## Normal Mode
 
 1. Go to [medium.com](https://medium.com/) and sign up for a blog
   - If you already have a blog and you want to use it instead, that is fine.
