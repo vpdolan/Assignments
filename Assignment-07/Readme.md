@@ -34,6 +34,4 @@ After completing this assignment, you be able to effectively use
 
 ## Deliverables
 
-Close the issue assigned to you and make sure to comment with a link to both `js` files.
-
-> Note: There is no need to push this to Github Pages, we just need to see the code.
+Push your project to `gh-pages` and comment with a link to the deployed version as well as a link to your repo.
