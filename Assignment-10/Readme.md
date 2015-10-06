@@ -28,6 +28,14 @@ After completing this assignment, you be able to effectively use
 
 ![jQuery Accordion](./assets/accordian.gif "jQuery Accordion")
 
+## Requirements
+
+* A repository containing the following:
+  * `index.html`
+  * `main.scss` & `main.css`
+  * `main.js`
+  * `Readme.md` filled out.
+
 ## Deliverables
 
 1. Comment with a link to Github Pages on the Issue that is assigned to you.
@@ -38,6 +46,7 @@ After completing this assignment, you be able to effectively use
 
 * Build a jQuery image carousel that will continue to show the images.
 * Do not use any of the jQuery animation methods like `fadeIn` or `fadeOut` or even `animate`
+* You must use the `carousel.js` file to put the content on the page.
 * Use the image below as an example
 
 ![jQuery Carousel](./assets/carousel.gif "jQuery Carousel")
