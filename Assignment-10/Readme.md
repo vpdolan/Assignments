@@ -25,7 +25,7 @@ After completing this assignment, you be able to effectively use
 * Only CSS3 transitions allowed. It should work for 2 or more sections.
 * Use the image below as an example
 
-![jQuery Accordion](/assets/accordian.gif "jQuery Accordion")
+![jQuery Accordion](./assets/accordian.gif "jQuery Accordion")
 
 ## Deliverables
 
@@ -39,4 +39,4 @@ After completing this assignment, you be able to effectively use
 * Do not use any of the jQuery animation methods like `fadeIn` or `fadeOut` or even `animate`
 * Use the image below as an example
 
-![jQuery Carousel](/assets/carousel.gif "jQuery Carousel")
+![jQuery Carousel](./assets/carousel.gif "jQuery Carousel")
