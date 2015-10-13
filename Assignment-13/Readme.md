@@ -35,6 +35,7 @@ After completing this assignment, you should:
 ## Deliverables
 
 1. For Pair Programming - Put a link to the pull request you either made or accepted.
+2. Both of you should provide a link to the deployed (Divshot) URL.
 
 ## Normal Mode (Pair Programming)
 
@@ -43,20 +44,11 @@ After completing this assignment, you should:
 3. Person [B] should fork the project and add in the styles you see in the `Full` screenshot below.
 4. Person [B] should then create a Pull Request
 5. Person [A] should then accept the Pull Request
-6. Person [A] should then add in responsive styles like the `Mobile` screenshot below.
-7. Give each other a high five.
+6. Give each other a high five.
 
 ## Screenshots
 
-#### Animated
-![](./assets/responsiveForm.gif)
-
-#### Full
 ![](./assets/full.png)
-
-#### Mobile
-![](./assets/mobile.png)
-
 
 ## Resources
 
