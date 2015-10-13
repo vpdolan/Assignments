@@ -16,13 +16,13 @@ For this part of the assignment, you will be broken up into pairs and will be re
 | Maryam     | Caroline   |
 | Josh       | Charlie    |
 | Shalmali   | Hyona      |
-| Hadiya     | Boyzie     |
+| Michael    | Boyzie     |
 | Thomas     | Jef        |
 | Luke       | Wes        |
 | Andrew     | Danny      |
 | Kool       | Jesse      |
 | Cori       | Kevin      |
-| Michael    | Jontae     |
+| Hadiya     | Jontae     |
 
 ### Learning Objectives
 
